@@ -1,6 +1,5 @@
 [![hello.jpg](https://i.postimg.cc/zvhPmNgx/hello.jpg)](https://postimg.cc/649hRDzZ)
-# Serial coder
-### looking for victims
+# Full Stack
 <!--
 **offmolly/offmolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
